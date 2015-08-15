@@ -5,16 +5,16 @@ canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Matthew Mansat
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
+  bio:            "Aspiring Teacher"
+  email:          mtmansat@gmail.com
+  twitter:        
+  github:         mansat
+  instagram:      
+  dribbble:       
   disqus:         balzac
-  location:       "Buffalo, NY"
+  location:       "Berkeley, California"
   # Plug in your disqus shortname!
 
 tools:
@@ -30,7 +30,7 @@ links:
     url: https://github.com/mansat
     external: true
   - title: Matt
-    url: mansat.github.io
+    url: https://mansat.github.io
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
